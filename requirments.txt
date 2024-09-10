@@ -1,0 +1,9 @@
+social-auth-app-django
+potp
+django
+django-otp
+matplotlib
+africastalking
+django-two-factor-auth
+django-ratelimit
+argon2-cffi
